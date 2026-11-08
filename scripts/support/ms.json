@@ -1,0 +1,42 @@
+{
+ "name": "Bahasa Melayu",
+ "app": "Shrinkaway",
+ "title": "Sokongan",
+ "contact": "Hubungi Kami",
+ "contact_body": "Untuk melaporkan masalah atau menghantar permintaan, sila gunakan {issues} (akaun GitHub diperlukan; isu dipaparkan secara umum, jadi jangan sertakan maklumat peribadi).",
+ "issues": "GitHub Issues",
+ "faq": "Soalan Lazim",
+ "qa": [
+  [
+   "Di manakah imej yang saya simpan ke Fail?",
+   [
+    "Dalam app Fail › Pada iPhone Saya (Pada iPad Saya pada iPad) › Shrinkaway › Imej Dimampatkan. Anda juga boleh memilihnya melalui “Pilih Fail” di laman web."
+   ]
+  ],
+  [
+   "Bilakah imej yang disimpan dipadam?",
+   [
+    "Imej yang disimpan ke Fail dipadam selepas tempoh tamat yang anda pilih dalam Seting (1 jam, 24 jam atau 7 hari), apabila anda membuka atau kembali ke app pada kali seterusnya. Anda juga boleh memilih “Jangan padam secara automatik”.",
+    "Imej yang disimpan ke Pustaka Foto anda tidak dipadam secara automatik; sebaik sahaja tamat tempoh, tab Urus akan mencadangkan supaya imej itu dipadam. Anda boleh memadam kedua-dua jenis imej pada bila-bila masa dalam tab Urus."
+   ]
+  ],
+  [
+   "Apakah yang berlaku kepada imej yang dipadam daripada Pustaka Foto saya?",
+   [
+    "Imej itu dialihkan ke Baru Dipadam dalam app Foto. Sebelum memadam, app menyemak bahawa setiap imej ialah salinan dimampatkan yang disimpan olehnya, jadi foto asal anda tidak sekali-kali dipadam."
+   ]
+  ],
+  [
+   "Saya telah membeli Pro tetapi ia tidak tersedia",
+   [
+    "Ketik Pulihkan Pembelian dalam tab Seting. Pastikan anda didaftar masuk dengan Akaun Apple yang sama yang digunakan semasa membelinya."
+   ]
+  ],
+  [
+   "Saya memberikan akses foto terhad kepada app",
+   [
+    "Pemampatan dan penyimpanan berfungsi seperti biasa. Semasa memadam daripada Pustaka Foto anda, app mungkin tidak dapat mengesahkan bahawa sesuatu imej disimpan olehnya; dalam keadaan itu, imej tersebut tidak akan dipadam demi keselamatan."
+   ]
+  ]
+ ]
+}

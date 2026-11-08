@@ -7,6 +7,7 @@
 Shared/Localizable.xcstrings の各言語の訳に合わせてある。アプリの文言を変えたら、ここも合わせる。
 """
 import html
+import json
 import os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -359,6 +360,16 @@ PAGES = {
 }
 
 ORDER = ["ja", "en", "ko", "zh-Hans", "zh-Hant", "fr", "es", "pt-BR", "pt-PT", "de", "it", "nl", "pl", "ru", "tr", "id", "th", "vi"]
+# 追加の言語は scripts/support/<言語>.json（PAGES の各要素と同じ形）に置く
+SUPPORT_DIR = os.path.join(ROOT, "scripts", "support")
+if os.path.isdir(SUPPORT_DIR):
+    for fn in sorted(os.listdir(SUPPORT_DIR)):
+        if fn.endswith(".json"):
+            code = fn[:-5]
+            with open(os.path.join(SUPPORT_DIR, fn), encoding="utf-8") as f:
+                PAGES[code] = json.load(f)
+            ORDER.append(code)
+RTL = {"ar", "he", "ur"}
 assert sorted(ORDER) == sorted(PAGES)
 
 e = html.escape
@@ -379,7 +390,8 @@ def section(code):
     p = PAGES[code]
     link = f'<a href="{ISSUES}">{e(p["issues"])}</a>'
     body = e(p["contact_body"]).replace("{issues}", link)
-    out = [f'<section class="lang" lang="{code}">', f'  <h2>{e(p["contact"])}</h2>', f"  <p>{body}</p>", f'  <h2>{e(p["faq"])}</h2>']
+    dir_attr = ' dir="rtl"' if code in RTL else ""
+    out = [f'<section class="lang" lang="{code}"{dir_attr}>', f'  <h2>{e(p["contact"])}</h2>', f"  <p>{body}</p>", f'  <h2>{e(p["faq"])}</h2>']
     for q, answers in p["qa"]:
         out.append(f"  <h3>{e(q)}</h3>")
         out += [f"  <p>{e(a)}</p>" for a in answers]
@@ -394,7 +406,7 @@ def alternates(prefix):
 def page(code):
     p = PAGES[code]
     return f"""<!doctype html>
-<html lang="{code}">
+<html lang="{code}"{' dir="rtl"' if code in RTL else ''}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">

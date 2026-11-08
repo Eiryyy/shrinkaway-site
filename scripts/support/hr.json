@@ -1,0 +1,42 @@
+{
+ "name": "Hrvatski",
+ "app": "Shrinkaway",
+ "title": "Podrška",
+ "contact": "Kontakt",
+ "contact_body": "Za prijavu problema ili slanje zahtjeva koristite {issues} (potreban je GitHub račun; prijave su javne, stoga nemojte navoditi osobne podatke).",
+ "issues": "GitHub Issues",
+ "faq": "Česta pitanja",
+ "qa": [
+  [
+   "Gdje su slike koje sam spremio u Datoteke?",
+   [
+    "U aplikaciji Datoteke › Na mom iPhoneu (Na mom iPadu na iPadu) › Shrinkaway › Komprimirane slike. Možete ih odabrati i putem opcije „Odaberi datoteku” na web-stranicama."
+   ]
+  ],
+  [
+   "Kada se spremljene slike brišu?",
+   [
+    "Slike spremljene u Datoteke brišu se nakon razdoblja isteka koje odaberete u Postavkama (1 sat, 24 sata ili 7 dana), kada sljedeći put otvorite aplikaciju ili se vratite u nju. Možete odabrati i „Bez automatskog brisanja”.",
+    "Slike spremljene u medijateku fotografija ne brišu se automatski; nakon isteka kartica Upravljanje predlaže njihovo brisanje. Obje vrste možete obrisati u bilo kojem trenutku u kartici Upravljanje."
+   ]
+  ],
+  [
+   "Što se događa sa slikama obrisanima iz medijateke fotografija?",
+   [
+    "Premještaju se u album Nedavno obrisano u aplikaciji Foto. Aplikacija prije brisanja provjerava je li svaka slika komprimirana kopija koju je sama spremila, pa se vaše izvorne fotografije nikad ne brišu."
+   ]
+  ],
+  [
+   "Kupio sam Pro, ali nije dostupan",
+   [
+    "Dodirnite Vrati kupnju u kartici Postavke. Provjerite jeste li prijavljeni istim Apple računom kojim ste obavili kupnju."
+   ]
+  ],
+  [
+   "Aplikaciji sam dao ograničen pristup fotografijama",
+   [
+    "Komprimiranje i spremanje rade kao i obično. Pri brisanju iz medijateke fotografija aplikacija možda neće moći potvrditi da je sliku spremila ona; u tom je slučaju radi sigurnosti neće obrisati."
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Slovenščina",
+ "app": "Shrinkaway",
+ "title": "Podpora",
+ "contact": "Stik",
+ "contact_body": "Če želite prijaviti težavo ali poslati zahtevo, uporabite {issues} (potreben je račun GitHub; prijave so javne, zato vanje ne vpisujte osebnih podatkov).",
+ "issues": "GitHub Issues",
+ "faq": "Pogosta vprašanja",
+ "qa": [
+  [
+   "Kje so slike, ki sem jih shranil(a) v Datoteke?",
+   [
+    "V aplikaciji Datoteke › V mojem iPhonu (v iPadu V mojem iPadu) › Shrinkaway › Stisnjene slike. Na spletnih mestih jih lahko izberete tudi z možnostjo »Izberi datoteko«."
+   ]
+  ],
+  [
+   "Kdaj se shranjene slike izbrišejo?",
+   [
+    "Slike, shranjene v Datoteke, se izbrišejo po poteku obdobja, ki ga izberete v Nastavitvah (1 ura, 24 ur ali 7 dni), ko naslednjič odprete aplikacijo ali se vrnete vanjo. Izberete lahko tudi »Brez samodejnega brisanja«.",
+    "Slike, shranjene v knjižnico fotografij, se ne izbrišejo samodejno; po poteku vam zavihek Upravljanje predlaga, da jih izbrišete. Obe vrsti lahko kadar koli izbrišete v zavihku Upravljanje."
+   ]
+  ],
+  [
+   "Kaj se zgodi s slikami, izbrisanimi iz knjižnice fotografij?",
+   [
+    "Premaknejo se v album Nedavno izbrisano v aplikaciji Fotografije. Aplikacija pred brisanjem preveri, ali je vsaka slika stisnjena kopija, ki jo je shranila sama, zato vaše izvirne fotografije nikoli niso izbrisane."
+   ]
+  ],
+  [
+   "Kupil(a) sem Pro, vendar ni na voljo",
+   [
+    "Tapnite Obnovi nakup v zavihku Nastavitve. Prepričajte se, da ste prijavljeni z istim Apple računom, s katerim ste opravili nakup."
+   ]
+  ],
+  [
+   "Aplikaciji sem dal(a) omejen dostop do fotografij",
+   [
+    "Stiskanje in shranjevanje delujeta kot običajno. Pri brisanju iz knjižnice fotografij aplikacija morda ne bo mogla potrditi, da je sliko shranila sama; v tem primeru je zaradi varnosti ne bo izbrisala."
+   ]
+  ]
+ ]
+}

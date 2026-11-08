@@ -1,0 +1,42 @@
+{
+ "name": "Română",
+ "app": "Shrinkaway",
+ "title": "Asistență",
+ "contact": "Contact",
+ "contact_body": "Pentru a raporta o problemă sau a trimite o solicitare, folosiți {issues} (este necesar un cont GitHub; solicitările sunt publice, așa că nu includeți informații personale).",
+ "issues": "GitHub Issues",
+ "faq": "Întrebări frecvente",
+ "qa": [
+  [
+   "Unde sunt imaginile salvate în Fișiere?",
+   [
+    "În aplicația Fișiere › Pe iPhone-ul meu (Pe iPad-ul meu pe iPad) › Shrinkaway › Imagini comprimate. Le puteți alege și din „Alegeți fișierul” pe site-uri."
+   ]
+  ],
+  [
+   "Când sunt șterse imaginile salvate?",
+   [
+    "Imaginile salvate în Fișiere sunt șterse după perioada de expirare aleasă în Configurări (1 oră, 24 de ore sau 7 zile), data următoare când deschideți aplicația sau reveniți la ea. Puteți alege și „Fără ștergere automată”.",
+    "Imaginile salvate în fototecă nu sunt șterse automat; după ce expiră, fila Gestionare vă sugerează să le ștergeți. Le puteți șterge pe oricare dintre ele oricând din fila Gestionare."
+   ]
+  ],
+  [
+   "Ce se întâmplă cu imaginile șterse din fototecă?",
+   [
+    "Sunt mutate în Șterse recent din aplicația Poze. Înainte de ștergere, aplicația verifică dacă fiecare imagine este o copie comprimată salvată de ea, astfel încât pozele originale nu sunt niciodată șterse."
+   ]
+  ],
+  [
+   "Am cumpărat Pro, dar nu este disponibil",
+   [
+    "Apăsați Restaurați achiziția în fila Configurări. Asigurați-vă că sunteți conectat cu același cont Apple folosit la cumpărare."
+   ]
+  ],
+  [
+   "Am acordat aplicației acces limitat la Poze",
+   [
+    "Comprimarea și salvarea funcționează ca de obicei. La ștergerea din fototecă, este posibil ca aplicația să nu poată confirma că o imagine a fost salvată de ea; în acest caz, din motive de siguranță, nu o va șterge."
+   ]
+  ]
+ ]
+}

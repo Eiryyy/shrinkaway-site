@@ -1,0 +1,42 @@
+{
+ "name": "Suomi",
+ "app": "Shrinkaway",
+ "title": "Tuki",
+ "contact": "Yhteydenotto",
+ "contact_body": "Voit ilmoittaa ongelmasta tai lähettää toiveen palvelussa {issues} (GitHub-tili tarvitaan; ilmoitukset ovat julkisia, joten älä kirjoita niihin henkilötietoja).",
+ "issues": "GitHub Issues",
+ "faq": "Usein kysytyt kysymykset",
+ "qa": [
+  [
+   "Missä Tiedostoihin tallentamani kuvat ovat?",
+   [
+    "Tiedostot-apissa kohdassa Omassa iPhonessa (iPadilla Omassa iPadissa) › Shrinkaway › Pakatut kuvat. Voit valita ne myös verkkosivustoilla kohdasta ”Valitse tiedosto”."
+   ]
+  ],
+  [
+   "Milloin tallennetut kuvat poistetaan?",
+   [
+    "Tiedostoihin tallennetut kuvat poistetaan Asetuksissa valitsemasi ajan (1 tunti, 24 tuntia tai 7 päivää) kuluttua, kun seuraavan kerran avaat apin tai palaat siihen. Voit myös valita ”Älä poista automaattisesti”.",
+    "Kuvakirjastoon tallennettuja kuvia ei poisteta automaattisesti; kun ne vanhenevat, Hallinta-välilehti ehdottaa niiden poistamista. Voit poistaa kumpiakin milloin tahansa Hallinta-välilehdellä."
+   ]
+  ],
+  [
+   "Mitä kuvakirjastosta poistetuille kuville tapahtuu?",
+   [
+    "Ne siirtyvät Kuvat-apin Äskettäin poistetut -kansioon. Appi tarkistaa ennen poistamista, että jokainen kuva on sen itse tallentama pakattu kopio, joten alkuperäisiä kuviasi ei koskaan poisteta."
+   ]
+  ],
+  [
+   "Ostin Pro-version, mutta se ei ole käytettävissä",
+   [
+    "Napauta Asetukset-välilehdellä Palauta osto. Varmista, että olet kirjautunut samalla Apple-tilillä, jolla teit oston."
+   ]
+  ],
+  [
+   "Annoin apille rajoitetun pääsyn kuviin",
+   [
+    "Pakkaaminen ja tallentaminen toimivat tavalliseen tapaan. Kuvakirjastosta poistettaessa appi ei aina pysty varmistamaan, että kuva on sen tallentama; silloin kuvaa ei poisteta turvallisuussyistä."
+   ]
+  ]
+ ]
+}

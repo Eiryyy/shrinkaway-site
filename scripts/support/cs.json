@@ -1,0 +1,42 @@
+{
+ "name": "Čeština",
+ "app": "Shrinkaway",
+ "title": "Podpora",
+ "contact": "Kontakt",
+ "contact_body": "Chcete-li nahlásit problém nebo poslat požadavek, použijte prosím {issues} (je potřeba účet GitHub; hlášení jsou veřejná, proto do nich neuvádějte osobní údaje).",
+ "issues": "GitHub Issues",
+ "faq": "Časté dotazy",
+ "qa": [
+  [
+   "Kde najdu obrázky uložené do Souborů?",
+   [
+    "V aplikaci Soubory › Na mém iPhonu (na iPadu Na mém iPadu) › Shrinkaway › Komprimované obrázky. Na webech je můžete vybrat také přes „Vybrat soubor“."
+   ]
+  ],
+  [
+   "Kdy se uložené obrázky smažou?",
+   [
+    "Obrázky uložené do Souborů se smažou po uplynutí doby, kterou zvolíte v Nastavení (1 hodina, 24 hodin nebo 7 dní), při příštím otevření aplikace nebo návratu do ní. Můžete také zvolit „Nikdy automaticky nemazat“.",
+    "Obrázky uložené do fotoknihovny se automaticky nemažou; po vypršení vám je karta Správa doporučí smazat. Oba druhy můžete kdykoli smazat na kartě Správa."
+   ]
+  ],
+  [
+   "Co se stane s obrázky smazanými z fotoknihovny?",
+   [
+    "Přesunou se do alba Naposledy smazané v aplikaci Fotky. Aplikace před smazáním ověří, že jde o komprimovanou kopii, kterou sama uložila, takže vaše původní fotky se nikdy nesmažou."
+   ]
+  ],
+  [
+   "Koupil(a) jsem Pro, ale není k dispozici",
+   [
+    "Klepněte na Obnovit nákup na kartě Nastavení. Ujistěte se, že jste přihlášeni ke stejnému Apple účtu, který jste použili při nákupu."
+   ]
+  ],
+  [
+   "Aplikaci jsem povolil(a) omezený přístup k fotkám",
+   [
+    "Komprimace a ukládání fungují normálně. Při mazání z fotoknihovny nemusí aplikace dokázat ověřit, že obrázek uložila sama; v takovém případě ho z bezpečnostních důvodů nesmaže."
+   ]
+  ]
+ ]
+}

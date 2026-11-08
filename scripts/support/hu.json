@@ -1,0 +1,42 @@
+{
+ "name": "Magyar",
+ "app": "Shrinkaway",
+ "title": "Támogatás",
+ "contact": "Kapcsolat",
+ "contact_body": "Hiba bejelentéséhez vagy kérés küldéséhez használd a(z) {issues} oldalt (GitHub-fiók szükséges; a bejegyzések nyilvánosak, ezért ne adj meg személyes adatokat).",
+ "issues": "GitHub Issues",
+ "faq": "GYIK",
+ "qa": [
+  [
+   "Hol vannak a Fájlokba mentett képek?",
+   [
+    "A Fájlok appban: Saját iPhone-on (iPaden Saját iPaden) › Shrinkaway › Tömörített képek. Webhelyeken a „Fájl kiválasztása” lehetőséggel is kiválaszthatod őket."
+   ]
+  ],
+  [
+   "Mikor törlődnek a mentett képek?",
+   [
+    "A Fájlokba mentett képek a Beállításokban választott lejárati idő (1 óra, 24 óra vagy 7 nap) után törlődnek, amikor legközelebb megnyitod az appot vagy visszatérsz hozzá. A „Nincs automatikus törlés” lehetőséget is választhatod.",
+    "A fotókönyvtárba mentett képek nem törlődnek automatikusan; lejárat után a Kezelés lap javasolja a törlésüket. Mindkét fajtát bármikor törölheted a Kezelés lapon."
+   ]
+  ],
+  [
+   "Mi történik a fotókönyvtárból törölt képekkel?",
+   [
+    "A Fotók app Nemrég törölt albumába kerülnek. Az app törlés előtt ellenőrzi, hogy minden kép általa mentett tömörített másolat-e, így az eredeti fotóid soha nem törlődnek."
+   ]
+  ],
+  [
+   "Megvettem a Pro verziót, de nem érhető el",
+   [
+    "Koppints a Vásárlás visszaállítása lehetőségre a Beállítások lapon. Győződj meg róla, hogy ugyanazzal az Apple-fiókkal vagy bejelentkezve, amellyel a vásárlást végezted."
+   ]
+  ],
+  [
+   "Korlátozott fotóhozzáférést adtam az appnak",
+   [
+    "A tömörítés és a mentés a szokásos módon működik. A fotókönyvtárból való törléskor előfordulhat, hogy az app nem tudja megerősíteni, hogy egy képet ő mentett; ilyenkor biztonsági okokból nem törli."
+   ]
+  ]
+ ]
+}

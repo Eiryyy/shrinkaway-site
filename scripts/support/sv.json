@@ -1,0 +1,42 @@
+{
+ "name": "Svenska",
+ "app": "Shrinkaway",
+ "title": "Support",
+ "contact": "Kontakt",
+ "contact_body": "Om du vill rapportera ett problem eller skicka ett önskemål använder du {issues} (ett GitHub-konto krävs; ärendena är offentliga, så skriv inga personuppgifter).",
+ "issues": "GitHub Issues",
+ "faq": "Vanliga frågor",
+ "qa": [
+  [
+   "Var finns bilderna som jag sparade i Filer?",
+   [
+    "I appen Filer › På min iPhone (På min iPad på iPad) › Shrinkaway › Komprimerade bilder. Du kan också välja dem via ”Välj fil” på webbplatser."
+   ]
+  ],
+  [
+   "När raderas sparade bilder?",
+   [
+    "Bilder som sparats i Filer raderas efter den tid du väljer i Inställningar (1 timme, 24 timmar eller 7 dagar), nästa gång du öppnar eller återvänder till appen. Du kan också välja ”Radera aldrig automatiskt”.",
+    "Bilder som sparats i bildbiblioteket raderas inte automatiskt; när de har gått ut föreslår fliken Hantera att du raderar dem. Du kan radera båda sorterna när som helst på fliken Hantera."
+   ]
+  ],
+  [
+   "Vad händer med bilder som raderas från bildbiblioteket?",
+   [
+    "De flyttas till Senast raderade i appen Bilder. Appen kontrollerar att varje bild är en komprimerad kopia som den själv har sparat innan den raderas, så dina originalbilder raderas aldrig."
+   ]
+  ],
+  [
+   "Jag har köpt Pro men kan inte använda det",
+   [
+    "Tryck på Återskapa köp på fliken Inställningar. Kontrollera att du är inloggad med samma Apple-konto som du använde vid köpet."
+   ]
+  ],
+  [
+   "Jag har gett appen begränsad åtkomst till bilder",
+   [
+    "Komprimering och sparande fungerar som vanligt. När du raderar från bildbiblioteket kan appen ibland inte bekräfta att en bild är en som den har sparat; i så fall raderas den inte, av säkerhetsskäl."
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Dansk",
+ "app": "Shrinkaway",
+ "title": "Support",
+ "contact": "Kontakt",
+ "contact_body": "Hvis du vil rapportere et problem eller sende et ønske, skal du bruge {issues} (en GitHub-konto er påkrævet; sagerne er offentlige, så skriv ikke personlige oplysninger).",
+ "issues": "GitHub Issues",
+ "faq": "Ofte stillede spørgsmål",
+ "qa": [
+  [
+   "Hvor er de billeder, jeg har gemt i Arkiver?",
+   [
+    "I appen Arkiver › På min iPhone (På min iPad på iPad) › Shrinkaway › Komprimerede billeder. Du kan også vælge dem via ”Vælg fil” på websteder."
+   ]
+  ],
+  [
+   "Hvornår slettes gemte billeder?",
+   [
+    "Billeder, der er gemt i Arkiver, slettes efter den udløbsperiode, du vælger i Indstillinger (1 time, 24 timer eller 7 dage), næste gang du åbner eller vender tilbage til appen. Du kan også vælge ”Slet aldrig automatisk”.",
+    "Billeder, der er gemt i dit fotobibliotek, slettes ikke automatisk; når de er udløbet, foreslår fanen Administrer, at du sletter dem. Du kan slette begge slags når som helst på fanen Administrer."
+   ]
+  ],
+  [
+   "Hvad sker der med billeder, der slettes fra mit fotobibliotek?",
+   [
+    "De flyttes til Senest slettet i appen Fotos. Appen tjekker, at hvert billede er en komprimeret kopi, den selv har gemt, før det slettes, så dine originale fotos bliver aldrig slettet."
+   ]
+  ],
+  [
+   "Jeg har købt Pro, men kan ikke bruge det",
+   [
+    "Tryk på Gendan køb på fanen Indstillinger. Sørg for, at du er logget ind med den samme Apple-konto, som du brugte til købet."
+   ]
+  ],
+  [
+   "Jeg har givet appen begrænset adgang til fotos",
+   [
+    "Komprimering og gemning virker som normalt. Når du sletter fra dit fotobibliotek, kan appen muligvis ikke bekræfte, at et billede er et, den har gemt; i så fald sletter den det ikke af sikkerhedshensyn."
+   ]
+  ]
+ ]
+}

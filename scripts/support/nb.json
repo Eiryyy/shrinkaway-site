@@ -1,0 +1,42 @@
+{
+ "name": "Norsk bokmål",
+ "app": "Shrinkaway",
+ "title": "Kundestøtte",
+ "contact": "Kontakt",
+ "contact_body": "Bruk {issues} for å rapportere et problem eller sende et ønske (du trenger en GitHub-konto; sakene er offentlige, så ikke ta med personopplysninger).",
+ "issues": "GitHub Issues",
+ "faq": "Vanlige spørsmål",
+ "qa": [
+  [
+   "Hvor er bildene jeg arkiverte i Filer?",
+   [
+    "I Filer-appen › På min iPhone (På min iPad på iPad) › Shrinkaway › Komprimerte bilder. Du kan også velge dem fra «Velg fil» på nettsteder."
+   ]
+  ],
+  [
+   "Når slettes arkiverte bilder?",
+   [
+    "Bilder som er arkivert i Filer, slettes etter utløpstiden du velger i Innstillinger (1 time, 24 timer eller 7 dager), neste gang du åpner eller går tilbake til appen. Du kan også velge «Aldri slett automatisk».",
+    "Bilder som er arkivert i bildebiblioteket, slettes ikke automatisk; når de har utløpt, foreslår Administrer-fanen at du sletter dem. Du kan slette begge typer når som helst i Administrer-fanen."
+   ]
+  ],
+  [
+   "Hva skjer med bilder som slettes fra bildebiblioteket?",
+   [
+    "De flyttes til Nylig slettet i Bilder-appen. Appen sjekker at hvert bilde er en komprimert kopi den selv har arkivert før det slettes, så originalbildene dine blir aldri slettet."
+   ]
+  ],
+  [
+   "Jeg har kjøpt Pro, men det er ikke tilgjengelig",
+   [
+    "Trykk på Gjenopprett kjøp i Innstillinger-fanen. Sørg for at du er logget på med den samme Apple-kontoen som du brukte til kjøpet."
+   ]
+  ],
+  [
+   "Jeg har gitt appen begrenset tilgang til bilder",
+   [
+    "Komprimering og arkivering fungerer som vanlig. Når du sletter fra bildebiblioteket, kan det hende appen ikke kan bekrefte at et bilde er et den har arkivert; i så fall sletter den det ikke, av sikkerhetshensyn."
+   ]
+  ]
+ ]
+}

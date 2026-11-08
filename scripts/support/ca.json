@@ -1,0 +1,42 @@
+{
+ "name": "Català",
+ "app": "Shrinkaway",
+ "title": "Assistència",
+ "contact": "Contacte",
+ "contact_body": "Per informar d’un problema o fer una petició, fes servir {issues} (cal un compte de GitHub; les incidències són públiques, així que no hi incloguis informació personal).",
+ "issues": "GitHub Issues",
+ "faq": "Preguntes freqüents",
+ "qa": [
+  [
+   "On són les imatges que he desat a Fitxers?",
+   [
+    "A l’app Fitxers › Al meu iPhone (Al meu iPad a l’iPad) › Shrinkaway › Imatges comprimides. També les pots triar amb «Tria un fitxer» als llocs web."
+   ]
+  ],
+  [
+   "Quan s’eliminen les imatges desades?",
+   [
+    "Les imatges desades a Fitxers s’eliminen quan passa el període de caducitat que triïs a Configuració (1 hora, 24 hores o 7 dies), el següent cop que obres l’app o hi tornes. També pots triar «No eliminar mai automàticament».",
+    "Les imatges desades a la fototeca no s’eliminen automàticament; quan caduquen, la pestanya Gestiona et suggereix eliminar-les. Pots eliminar els dos tipus d’imatges en qualsevol moment des de la pestanya Gestiona."
+   ]
+  ],
+  [
+   "Què passa amb les imatges que elimino de la fototeca?",
+   [
+    "Es mouen a «Eliminat recentment» de l’app Fotos. Abans d’eliminar cada imatge, l’app comprova que sigui una còpia comprimida que ha desat ella mateixa, de manera que les fotos originals no s’eliminen mai."
+   ]
+  ],
+  [
+   "He comprat Pro però no està disponible",
+   [
+    "Toca «Restaura la compra» a la pestanya Configuració. Assegura’t que has iniciat la sessió amb el mateix compte d’Apple que vas fer servir per comprar-lo."
+   ]
+  ],
+  [
+   "He donat a l’app accés limitat a les fotos",
+   [
+    "La compressió i el desament funcionen amb normalitat. En eliminar de la fototeca, pot ser que l’app no pugui confirmar que una imatge l’ha desat ella; en aquest cas, per seguretat, no l’elimina."
+   ]
+  ]
+ ]
+}
